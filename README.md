@@ -11,7 +11,7 @@ Projekt zrealizowany w ramach Laboratorium 5: "Poszukiwanie bibliotek o określo
 ## Struktura katalogów
 
 ```
-NLP-Lab5/
+Lab5/
 ├── examples/           # Przykładowe skrypty z użyciem bibliotek
 │   ├── spacy_example.py
 │   └── textblob_example.py
