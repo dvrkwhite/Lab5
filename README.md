@@ -1,4 +1,4 @@
-# NLP-Lab5: Przetwarzanie języka naturalnego w Pythonie
+# Lab5: Przetwarzanie języka naturalnego w Pythonie
 
 ## Opis projektu
 
